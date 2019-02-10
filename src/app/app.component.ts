@@ -18,5 +18,6 @@ export class AppComponent {
     console.log(this.cards)
     firstName.value = '';
     lastName.value = '';    
+    /////////
   }
 }
